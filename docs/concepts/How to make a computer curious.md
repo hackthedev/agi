@@ -24,7 +24,7 @@ In theory learning complex concepts is super easy too! Lets say we have a few mo
 
 If you get what im trying to say is that these "complex concepts" are just normal concepts build upon others! So the concept `weather` is just other concepts combined, like `rainy`, `sunny`, `foggy`, etc... 
 
-Thats not all tho! We now have the concept of `weather`, imagine we have concept of `regions` or `locations`, now if you were to combine `weather` and `locations`, you could make a new layer and a mindmap like `climate`, consisting of concepts like `weather` and `locations`!
+Thats not all tho! We now have the concept of `weather`, imagine we have concepts of `region` or `location`, now if you were to combine `weather` and `location`, you could make a new layer and a mindmap like `climate`, consisting of concepts like `weather` and `location`!
 
 This means that everything is simply built upon each other! In theory you dont need any layers, but i think it helps to understand it better, at least it did for me
 
@@ -32,7 +32,7 @@ This means that everything is simply built upon each other! In theory you dont n
 
 ## How the computer becomes curious
 
-Every concept has properties that we need to teach somehow, and as in this example, the concept `rain` has properties like `wet`, `cold`, etc... The problem is if you look at the entire map you'll realise that it only knows about the concepts `rain`, `today` and `its`, but not about `wet`, `cold` or others.
+Every concept has properties that we need to teach somehow, and as in this example, the concept `rain` has properties like `wet`, `cold`, etc... The problem is if you look at the entire map you'll realize that it only knows about the concepts `rain`, `today` and `its`, but not about `wet`, `cold` or others.
 
 Thats where a simple rule becomes a game changer. If you tell your computer to search for all properties where there is no concept yet, try to solve it! Try to find out what it is, maybe by asking the user about it via a prompt or similar.
 
